@@ -20,7 +20,7 @@ no lugar de (nome da aplicacao) coloque o nome da a aplicação a ser executada 
 a extensão do arquivo da aplicação
 
 
-![alt text](https://github.com/RenanZX/snakepychips8/img/gameplayimg.jpg)
+![alt text](https://github.com/RenanZX/snakepychips8/blob/master/img/gameplayimg.jpg)
 
 
 ## Objetivos
