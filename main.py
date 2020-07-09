@@ -2,6 +2,7 @@ from CPU import *
 import sys
 
 # seta o sistema de renderização
+#inputgame = input("Digite a aplicacao que deseja executar(com a extensão):")
 g = Screen()
 
 # Inicializa o Sistema Chip8 e carrega o jogo na memória

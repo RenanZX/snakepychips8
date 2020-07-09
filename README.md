@@ -14,14 +14,16 @@ Caso tenha o pip instalado, basta jogar o comando no terminal:
 
 ## Executando aplicações do Chip8
 
-No terminal use o comando:
-```python3 main.py (nome da aplicacao).(extensao)```
-no lugar de (nome da aplicacao) coloque o nome da a aplicação a ser executada e no lugar de .(extensao) coloque
-a extensão do arquivo da aplicação
-
+Acesse a pasta ```dist``` dentro da raiz do projeto, é necessário apenas arrastar a aplicação em cima do executável
+```snakepychips8.exe``` e rodar o game
 
 ![alt text](https://github.com/RenanZX/snakepychips8/blob/master/img/gameplayimg.jpg)
 
+## Comandos
+
+Os comandos foram mapeados de acordo com o teclado a seguir:
+
+![alt text](https://github.com/RenanZX/snakepychips8/blob/master/img/keyboardmap.png)
 
 ## Objetivos
 
